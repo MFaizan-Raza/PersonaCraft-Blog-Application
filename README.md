@@ -18,10 +18,6 @@
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
 
-## 📸 Screenshots
-
-_Add screenshots or a live demo link here._
-
 ## 📂 How to Run Locally
 
 1. Clone the repository:
